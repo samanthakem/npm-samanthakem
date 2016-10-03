@@ -1,0 +1,20 @@
+{
+  "name": "samanthakem",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Samantha Monteiro <samanthakem@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samanthakem/npm-samanthakem.git"
+  },
+  "bugs": {
+    "url": "https://github.com/samanthakem/npm-samanthakem/issues"
+  },
+  "homepage": "https://github.com/samanthakem/npm-kentcdodds#readme",
+  "description": "me"
+}
